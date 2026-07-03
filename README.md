@@ -146,16 +146,12 @@ Non-Invasive-Bilirubin-Glucose-Detection/
 │   ├── SignalProcessing.cpp
 │   └── Display.cpp
 │
-├── Circuit/
-│   ├── CircuitDiagram.png
-│
 ├── Images/
-│   ├── BlockDiagram.png
-│   └── WorkingModel.jpg
+│   ├── Setup
+│   └── Measurement
 │
 ├── Documentation/
 │   ├── ProjectReport.pdf
-│   └── Presentation.pptx
 │
 ├── README.md
 
